@@ -1,6 +1,8 @@
 # Human Activities Recognition Using Smartphones
 Human Activities Recognition Using Smartphones
 
+![alt text](https://github.com/DOUGLASMENDES/HumanActivitiesRecognitionUsingSmartphones/blob/[branch]/image.jpg?raw=true)
+
 Author: Douglas Mendes
 Date: June 2020
 
