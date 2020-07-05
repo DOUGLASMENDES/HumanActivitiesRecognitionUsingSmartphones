@@ -4,7 +4,7 @@ Human Activities Recognition Using Smartphones
 Author: Douglas Mendes
 Date: June 2020
 
-![alt text](https://github.com/DOUGLASMENDES/HumanActivitiesRecognitionUsingSmartphones/blob/master/collecting_data.png?raw=true)
+![alt text](https://raw.githubusercontent.com/DOUGLASMENDES/HumanActivitiesRecognitionUsingSmartphones/master/collecting_data.png)
 
 ## Description
 Conducting exploratory analysis of data regarding the use of smartphones with devices that generate data on the individual's movement.
