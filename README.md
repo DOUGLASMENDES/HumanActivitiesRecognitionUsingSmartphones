@@ -1,0 +1,2 @@
+# HumanActivitiesRecognitionUsingSmartphones
+Human Activities Recognition Using Smartphones
